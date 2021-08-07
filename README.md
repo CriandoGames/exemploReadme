@@ -55,4 +55,4 @@ Feito com ❤️ por Carlos Castro 👋🏽 Entre em contato!
   
   ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto esta sobe a licença [MIT](./LICENSE.txt).
